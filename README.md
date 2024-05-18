@@ -1,1 +1,2 @@
 # blackjack.py
+This is my first fully functional app I built. It took me about two days, I am constantly editing it to make it better. I started out with a plain input, and went from there. I knew I wanted everything to be input based, so after that I began to build functions to make everything come to life. After that, I started with using math to add everything up, I will admit that was a learning curve but I enjoyed the challenge to figure everything out.
